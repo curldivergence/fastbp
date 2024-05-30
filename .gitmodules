@@ -1,0 +1,6 @@
+[submodule "fastbp/extern/cuCollections"]
+	path = fastbp/extern/cuCollections
+	url = https://github.com/NVIDIA/cuCollections
+[submodule "fastbp/extern/NVTX"]
+	path = fastbp/extern/NVTX
+	url = https://github.com/NVIDIA/NVTX
